@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: a934fd06a855cd44f979208cd4a0efde
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BusinessRagdoll_0
+    21300002: BusinessRagdoll_1
+    21300004: BusinessRagdoll_2
+    21300006: BusinessRagdoll_3
+    21300008: BusinessRagdoll_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 250
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: BusinessRagdoll_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 117
+        width: 662
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BusinessRagdoll_1
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 10
+        width: 542
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BusinessRagdoll_2
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 219
+        width: 254
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BusinessRagdoll_3
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 219
+        width: 254
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BusinessRagdoll_4
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 230
+        width: 131
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

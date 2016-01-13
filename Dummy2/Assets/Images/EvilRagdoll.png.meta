@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 70d4c151c8b116e45a207cb49f15c216
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EvilRagdoll_0
+    21300002: EvilRagdoll_1
+    21300004: EvilRagdoll_2
+    21300006: EvilRagdoll_3
+    21300008: EvilRagdoll_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: EvilRagdoll_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 53
+        width: 611
+        height: 670
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilRagdoll_1
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 40
+        width: 704
+        height: 495
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilRagdoll_2
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 220
+        width: 248
+        height: 381
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilRagdoll_3
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 220
+        width: 252
+        height: 382
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EvilRagdoll_4
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 186
+        width: 305
+        height: 372
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
